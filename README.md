@@ -1,6 +1,6 @@
 ### Welcome to my github 🌸 I'm **bongudth**!
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=bongudth" alt="bongudth" />
+  <img src="https://komarev.com/ghpvc/?username=bongudth&label=Profile%20views&color=f69673&style=flat" alt="bongudth" />
   <a href="https://www.facebook.com/bongudth/"><img src="https://img.shields.io/badge/Facebook--_.svg?style=social&logo=facebook" alt="Facebook"></a>
   <a href="https://www.instagram.com/bongudth"><img src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram" alt="Instagram"></a>
   <a href="https://github.com/bongudth"><img src="https://img.shields.io/badge/Github--_.svg?style=social&logo=github" alt="Github"></a>
