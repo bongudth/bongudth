@@ -11,3 +11,4 @@
 <img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/3ohs4BSacFKI7A717y/giphy.gif" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bongudth&show_icons=true&locale=en&layout=compact&line_height=20&title_color=f69673" alt="bongudth-stats" />
 <img align="left" width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=bongudth&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=e2a7a2&show_owner=true"/>
+<img alt="bongudth's WakaTime Stats" src="https://git-hub-read-me-stats-sandy.vercel.app/api/wakatime?username=bongudth&hide_title=false&bg_color=060A0CD0&hide_border=true&layout=compact&text_color=e2a7a2&title_color=f69673&theme=highcontrast&langs_count=10&custom_title=bongudth's WakaTime Stats""/>
